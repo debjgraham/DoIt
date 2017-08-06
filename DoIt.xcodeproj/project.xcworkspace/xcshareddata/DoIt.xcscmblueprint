@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B306F2F71D682F852A33C66FE6D9956A15041670",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B306F2F71D682F852A33C66FE6D9956A15041670" : 9223372036854775807,
+    "126EA57CB0176951EFA07319CEA0CAE3EE9290B5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5CBEF879-D469-4B49-9330-C7E002962B08",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B306F2F71D682F852A33C66FE6D9956A15041670" : "DoIt\/",
+    "126EA57CB0176951EFA07319CEA0CAE3EE9290B5" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DoIt",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DoIt.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/github.com\/debjgraham\/FreakingiPhoneAppiOS10Swift3.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "126EA57CB0176951EFA07319CEA0CAE3EE9290B5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/debjgraham\/DoIt.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B306F2F71D682F852A33C66FE6D9956A15041670"
+    }
+  ]
+}
